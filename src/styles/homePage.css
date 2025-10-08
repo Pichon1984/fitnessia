@@ -1,0 +1,23 @@
+
+.vertical-img {
+  width: 100%;
+  max-height: 600px;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+@media (max-width: 768px) {
+  .vertical-img {
+    max-height: 400px;
+  }
+
+  .carousel-caption {
+    font-size: 0.9rem;
+    padding: 0.5rem;
+  }
+}
+
+.bg-custom {
+  background-color: #caedfd;
+}
+
