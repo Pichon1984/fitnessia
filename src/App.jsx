@@ -2,9 +2,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { useState } from 'react'
 
-import ContactPage from './Pages/ContactPage';
-import { HomePage } from './Pages/HomePage';
-import { Aboutpage } from './Pages/AboutPage';
+import ContactPage from './pages/ContactPage';
+import { HomePage } from './pages/HomePage';
+import { Aboutpage } from './pages/AboutPage';
 
 
 import HeaderComponents from './components/HeaderComponents';
