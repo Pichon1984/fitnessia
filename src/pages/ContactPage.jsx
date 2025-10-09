@@ -1,7 +1,7 @@
 
 import React, { useRef } from 'react';
 import emailjs from '@emailjs/browser';
-import '../styles/Contacto.css'
+import '../styles/contacto.css'
 
 const EMAILJS_SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE_ID;
 const EMAILJS_TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
