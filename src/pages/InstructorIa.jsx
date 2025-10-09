@@ -111,6 +111,7 @@ export default function InstructorIa() {
             <option value="">Seleccionar</option>
             <option value="sí">Sí</option>
             <option value="no">No</option>
+            <option value="solo pesas">solo pesas</option>
           </select>
         </div>
 
