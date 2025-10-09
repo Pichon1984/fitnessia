@@ -63,7 +63,6 @@ export default function InstructorIa() {
             <option value="">Seleccionar</option>
             <option value="masculino">Masculino</option>
             <option value="femenino">Femenino</option>
-            <option value="otro">Otro</option>
           </select>
         </div>
 
